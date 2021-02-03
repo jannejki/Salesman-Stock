@@ -1,5 +1,5 @@
 # Salesman Stock
- Object oriented programming in IoT Devices
+ Object oriented programming in IoT Devices project
 
 This was a project I made for object oriented programming in IoT Devices -course. Language that was used in this project is C++. 
 
