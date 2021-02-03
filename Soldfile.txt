@@ -1,0 +1,2 @@
+tietokone;999
+muki;50

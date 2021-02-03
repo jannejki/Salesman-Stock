@@ -1,0 +1,11 @@
+muki;50
+lasi;100
+kuppi;75
+puhelin;300
+tietokone;999
+lamppu;30
+poyta;300
+kuulokkeet;123
+kello;22
+nappis;124
+hiiri;22.22

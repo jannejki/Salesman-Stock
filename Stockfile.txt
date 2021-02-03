@@ -1,0 +1,13 @@
+muki;50
+lasi;100
+kuppi;75
+puhelin;300
+tietokone;999
+lamppu;30
+kaiutin;60
+poyta;300
+kuulokkeet;123
+kello;22
+nappis;124
+testi1;112.22
+testi2;123.32
