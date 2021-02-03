@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Header files",
+    "\\Source files"
   ],
-  "SelectedNode": "\\ItemList.cpp",
+  "SelectedNode": "\\Source files\\ItemsForSale.cpp",
   "PreviewInSolutionExplorer": false
 }

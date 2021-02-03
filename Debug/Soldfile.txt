@@ -1,1 +1,4 @@
 kaiutin;60
+nappis;124
+tietokone;999
+hiiri;22.22
