@@ -5,10 +5,15 @@ This was a project I made for object oriented programming in IoT Devices -course
 
 The goal was to write  a program that a travelling salesman can use to keep track of items he has for sale. Each item that he
 has for sale is recorded using this program. The program stores following information about each item:
+
 • Name of item
+
 • Price of item
+
 • Number of items he has for sale
+
 • Number of items sold so far
+
 The program uses an array of records to hold the salesman’s stock of item.
 The program must have (at least) following commands:
 1. Initialize (clear stock listing)
